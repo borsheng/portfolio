@@ -45,15 +45,15 @@ export const navLinks = [
 
 const services = [
   {
-    title: 'Frontend Developer',
+    title: 'Frontend Development',
     icon: frontend,
   },
   {
-    title: 'Backend Developer',
+    title: 'Backend Development',
     icon: backend,
   },
   {
-    title: 'Data Analytics',
+    title: 'Data Analysis',
     icon: ux,
   },
   {
@@ -183,7 +183,7 @@ const projects = [
   },
   {
     id: 'project-4',
-    name: 'Library Management',
+    name: 'Library System',
     description: 'This Library Management System project uses TCP and UDP sockets for book availability and inventory management.',
     tags: [],
     image: library,

@@ -26,11 +26,11 @@ const Contact = () => {
     setLoading(true);
 
     // sign up on emailjs.com (select the gmail service and connect your account).
-    //click on create a new template then click on save.
+    // click on create a new template then click on save.
     emailjs
       .send(
         'service_7bqgmlp', // paste your ServiceID here (you'll get one when your service is created).
-        'template_6i9evqd', // paste your TemplateID here (you'll find it under email templates).
+        'template_6g0nyry', // paste your TemplateID here (you'll find it under email templates).
         {
           from_name: form.name,
           to_name: 'Eric', // put your name here.
