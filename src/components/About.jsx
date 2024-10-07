@@ -42,7 +42,7 @@ const About = () => {
         at the University of Southern California. 
         I'm seeking full-time opportunities in, but not limited to, 
         Software Engineering / Web Development / Data Analytics 
-        after I graduate in December 20204.
+        after I graduate in December 2024.
         Please feel free to reach out to me through LinkedIn or by email.
         <br />
         LinkedIn: 
