@@ -40,6 +40,8 @@ const About = () => {
         Hello, this is Eric. 
         I am currently pursuing my master's degree in computer science 
         at the University of Southern California. 
+        I’ve gained valuable industry experience through internships at 
+        HighPoint Technologies, TSMC, and Cathay Financial Holdings.
         I'm seeking full-time opportunities in, but not limited to, 
         Software Engineering / Web Development / Data Analytics 
         after I graduate in December 2024.
