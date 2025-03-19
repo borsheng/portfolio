@@ -38,8 +38,8 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
         Hello, this is Eric. 
-        I am currently pursuing my master's degree in Computer Science 
-        at the University of Southern California. I’ve gained valuable 
+        I recently earned my Master’s degree in Computer Science from 
+        the University of Southern California. I’ve gained valuable 
         industry experience through internships at HighPoint Technologies, 
         TSMC, and Cathay Financial Holdings. Additionally, 
         I co-founded PicklePals INC, where I led the development of a 
