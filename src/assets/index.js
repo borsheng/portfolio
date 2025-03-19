@@ -43,6 +43,7 @@ import cathay from './company/cathay.png';
 import ncku from './company/ncku.png';
 import tsmc from './company/tsmc.png';
 import highpoint from './company/highpoint.png';
+import picklepals from './company/picklepals.png';
 
 import website from './projects/website.png';
 import ios from './projects/ios.png';
@@ -98,5 +99,6 @@ export {
   ncku,
   tsmc,
   highpoint,
+  picklepals,
   resumepdf,
 };

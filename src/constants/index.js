@@ -26,6 +26,7 @@ import {
   ncku,
   tsmc,
   highpoint,
+  picklepals,
 } from '../assets';
 
 export const navLinks = [
@@ -149,6 +150,13 @@ const experiences = [
     icon: highpoint,
     iconBg: '#333333',
     date: 'May 2024 - Aug 2024',
+  },
+  {
+    title: 'Co-Founder & Software Engineer',
+    company_name: 'PicklePals INC',
+    icon: picklepals,
+    iconBg: '#333333',
+    date: 'November 2024 - Present',
   },
 ];
 

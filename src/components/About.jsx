@@ -38,14 +38,16 @@ const About = () => {
         variants={fadeIn('', '', 0.1, 1)}
         className="mt-4 text-taupe text-[18px] max-w-3xl leading-[30px]">
         Hello, this is Eric. 
-        I am currently pursuing my master's degree in computer science 
-        at the University of Southern California. 
-        I’ve gained valuable industry experience through internships at 
-        HighPoint Technologies, TSMC, and Cathay Financial Holdings.
-        I'm seeking full-time opportunities in, but not limited to, 
-        Software Engineering / Web Development / Data Analytics 
-        after I graduate in December 2024.
-        Please feel free to reach out to me through LinkedIn or by email.
+        I am currently pursuing my master's degree in Computer Science 
+        at the University of Southern California. I’ve gained valuable 
+        industry experience through internships at HighPoint Technologies, 
+        TSMC, and Cathay Financial Holdings. Additionally, 
+        I co-founded PicklePals INC, where I led the development of a 
+        full-stack cross-platform mobile app. I'm seeking 
+        full-time opportunities in, but not limited to, 
+        Software Engineering, Web Development, or Data Analytics. 
+        Please feel free to reach out to me through LinkedIn or by email. 
+        <br />
         <br />
         LinkedIn: 
         <a href="https://www.linkedin.com/in/eric-huang-4b57b7249/" target="_blank" className="text-link hover:font-semibold"> Eric Huang</a>
